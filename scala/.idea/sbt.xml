@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/anagram" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/anagram" />
+            <option value="$PROJECT_DIR$/anagram/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/anagram" />
+            <option value="$PROJECT_DIR$/anagram/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bob" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/bob" />
+            <option value="$PROJECT_DIR$/bob/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/bob" />
+            <option value="$PROJECT_DIR$/bob/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/etl" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/etl" />
+            <option value="$PROJECT_DIR$/etl/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/etl" />
+            <option value="$PROJECT_DIR$/etl/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/grade-school" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/grade-school" />
+            <option value="$PROJECT_DIR$/grade-school/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/grade-school" />
+            <option value="$PROJECT_DIR$/grade-school/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hamming" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hamming" />
+            <option value="$PROJECT_DIR$/hamming/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/hamming" />
+            <option value="$PROJECT_DIR$/hamming/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hello-world" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hello-world" />
+            <option value="$PROJECT_DIR$/hello-world/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/hello-world" />
+            <option value="$PROJECT_DIR$/hello-world/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/leap" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/leap" />
+            <option value="$PROJECT_DIR$/leap/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/leap" />
+            <option value="$PROJECT_DIR$/leap/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/meetup" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/meetup" />
+            <option value="$PROJECT_DIR$/meetup/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/meetup" />
+            <option value="$PROJECT_DIR$/meetup/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nucleotide-count" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nucleotide-count" />
+            <option value="$PROJECT_DIR$/nucleotide-count/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/nucleotide-count" />
+            <option value="$PROJECT_DIR$/nucleotide-count/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/phone-number" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/phone-number" />
+            <option value="$PROJECT_DIR$/phone-number/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/phone-number" />
+            <option value="$PROJECT_DIR$/phone-number/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/robot-name" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/robot-name" />
+            <option value="$PROJECT_DIR$/robot-name/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/robot-name" />
+            <option value="$PROJECT_DIR$/robot-name/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/space-age" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/space-age" />
+            <option value="$PROJECT_DIR$/space-age/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/space-age" />
+            <option value="$PROJECT_DIR$/space-age/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/word-count" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/word-count" />
+            <option value="$PROJECT_DIR$/word-count/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.5" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/word-count" />
+            <option value="$PROJECT_DIR$/word-count/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
