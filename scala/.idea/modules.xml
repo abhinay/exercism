@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/etl/.idea/modules/etl.iml" filepath="$PROJECT_DIR$/etl/.idea/modules/etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/etl/.idea/modules/etl-build.iml" filepath="$PROJECT_DIR$/etl/.idea/modules/etl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />
