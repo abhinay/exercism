@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$5a3acd8b5037dece4a9a$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$5a3acd8b5037dece4a9a$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$5a3acd8b5037dece4a9a.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$5a3acd8b5037dece4a9a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$7e50ae8bcf48413b1af5$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$7e50ae8bcf48413b1af5$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$7e50ae8bcf48413b1af5.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$7e50ae8bcf48413b1af5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$cc5d74b295072e2f2e97$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$cc5d74b295072e2f2e97$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$cc5d74b295072e2f2e97$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$cc5d74b295072e2f2e97.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$cc5d74b295072e2f2e97.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$db99aee0f049f4e7d0fa$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$db99aee0f049f4e7d0fa$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$db99aee0f049f4e7d0fa.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$db99aee0f049f4e7d0fa.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$eccfb3b189bfc24fbfa0$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$eccfb3b189bfc24fbfa0$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$eccfb3b189bfc24fbfa0.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/space-age/project/target/config-classes/$eccfb3b189bfc24fbfa0.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/src/test/scala/space_age_test.scala" afterPath="$PROJECT_DIR$/space-age/src/test/scala/space_age_test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/default/space-age_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/default/space-age_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/default/space-age_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/default/space-age_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-compile.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-docs.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-optional.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-plugin.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-pom.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-provided.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-runtime.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-sources.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-test.xml" afterPath="$PROJECT_DIR$/space-age/target/resolution-cache/reports/default-space-age_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/space-age/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/space-age/target/streams/$global/update/$global/streams/out" />
-    </list>
+    <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="" />
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -137,21 +91,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grains/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.6666666">
+            <state vertical-scroll-proportion="0.06923077">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpaceAge.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/space-age/src/main/scala/SpaceAge.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1172,12 +1116,12 @@
       <workItem from="1446645378527" duration="14322000" />
       <workItem from="1447068489010" duration="70000" />
       <workItem from="1447068617281" duration="252000" />
-      <workItem from="1447068883228" duration="9521000" />
+      <workItem from="1447068883228" duration="9803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76665000" />
+    <option name="totallyTimeSpent" value="76947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -1616,18 +1560,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grains/build.sbt">
+    <entry file="file://$PROJECT_DIR$/space-age/src/main/scala/SpaceAge.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3323486">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/space-age/src/main/scala/SpaceAge.scala">
+    <entry file="file://$PROJECT_DIR$/grains/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.06923077">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
