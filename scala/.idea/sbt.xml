@@ -57,6 +57,24 @@
         </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gigasecond" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/gigasecond" />
+            <option value="$PROJECT_DIR$/gigasecond/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/gigasecond" />
+            <option value="$PROJECT_DIR$/gigasecond/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/grade-school" />
         <option name="modules">
           <set>
@@ -215,6 +233,24 @@
           <set>
             <option value="$PROJECT_DIR$/robot-name" />
             <option value="$PROJECT_DIR$/robot-name/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/scrabble-score" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/scrabble-score" />
+            <option value="$PROJECT_DIR$/scrabble-score/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/scrabble-score" />
+            <option value="$PROJECT_DIR$/scrabble-score/project" />
           </set>
         </option>
       </SbtProjectSettings>
