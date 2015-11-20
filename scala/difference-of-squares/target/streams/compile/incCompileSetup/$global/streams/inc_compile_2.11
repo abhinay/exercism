@@ -1,0 +1,118 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> /Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares$$anonfun$sumOfSquares$1.class
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> /Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares$.class
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> /Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares.class
+binary dependencies:
+2 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> /Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Squares
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Squares$
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Squares$$anonfun$sumOfSquares$1
+used names:
+35 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> &&
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> *
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> -
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> <init>
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> ==
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> AbstractFunction0
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> IndexedSeq
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Int
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> IntIsIntegral
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Numeric
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Predef
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Product
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> ScalaRunTime
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Serializable
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> Squares
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> _hashCode
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> _toString
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> asInstanceOf
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> canBuildFrom
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> immutable
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> intWrapper
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> isInstanceOf
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> map
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> math
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> number
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> runtime
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> scala
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> square
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> squareOfSums
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> sum
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> sumOfSquares
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> to
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> toString
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> typedProductIterator
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> upperBound
+product stamps:
+3 items
+/Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares$$anonfun$sumOfSquares$1.class -> lastModified(1447864775000)
+/Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares$.class -> lastModified(1447864775000)
+/Users/mehtaa/exercism/scala/difference-of-squares/target/scala-2.11/classes/Squares.class -> lastModified(1447864775000)
+source stamps:
+1 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> hash(0dcb3e586ef8e1f16bed956ba9f7457d977517eb)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction0
+internal apis:
+1 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAkhZoOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEwIBvN0AAZub3RpZnlzcQB+AAzH52g1dAAHU3F1YXJlc3NxAH4ADLJCJVp0AAR3YWl0c3EAfgAMYVkkd3QADSRhc0luc3RhbmNlT2ZzcQB+AAytWaCbdAAMcHJvZHVjdEFyaXR5c3EAfgAMbNxjaHQADHN1bU9mU3F1YXJlc3NxAH4ADBGVYoR0AAZlcXVhbHNzcQB+AAw7jF76dAAMYXNJbnN0YW5jZU9mc3EAfgAM5CzAl3QADHN5bmNocm9uaXplZHNxAH4ADPDp6Rd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMKO6uu3QADHNxdWFyZU9mU3Vtc3NxAH4ADJPEYCZ0AAhjYW5FcXVhbHNxAH4ADAnfJ6R0AA1wcm9kdWN0UHJlZml4c3EAfgAM2lhgAHQACW5vdGlmeUFsbHNxAH4ADFpPikd0AAZzcXVhcmVzcQB+AAwBnaAmdAAMaXNJbnN0YW5jZU9mc3EAfgAMIh+yHXQABjxpbml0PnNxAH4ADKA2a0F0AAI9PXNxAH4ADN8a4/N0AAVjbG9uZXNxAH4ADFYvhVV0AARjb3B5c3EAfgAMpEmArHQACHRvU3RyaW5nc3EAfgAMHT2dOnQAAiE9c3EAfgAMys6aUnQACGdldENsYXNzc3EAfgAMcaL1inQAAm5lc3EAfgAMOcLk6nQACmRpZmZlcmVuY2VzcQB+AAyHrvUUdAACZXFzcQB+AAxYOop0dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMoF01NHQAAiMjc3EAfgAMouKKY3QACGZpbmFsaXplc3EAfgAM6NM+cHQADnByb2R1Y3RFbGVtZW50c3EAfgAMSdu2HXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4Ac3NxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIxzcQB+AH9xAH4AgnNxAH4Ag3NxAH4AhnVxAH4AiQAAAANzcQB+AIt0AARqYXZhc3EAfgCLdAACaW9xAH4AkHNxAH4Af3QAB1Byb2R1Y3RxAH4AhXNxAH4Af3QABkVxdWFsc3EAfgCFc3EAfgB/dAAGT2JqZWN0c3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3EAfgCWc3EAfgCLdAAEbGFuZ3EAfgCQc3EAfgB/dAADQW55cQB+AIVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRG3co0XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEwvVXNlcnMvbWVodGFhL2V4ZXJjaXNtL3NjYWxhL2RpZmZlcmVuY2Utb2Ytc3F1YXJlcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDcs+WG744fFr7ZVrqfdFfZd1F+s=
+external apis:
+0 items
+source infos:
+1 items
+/Users/mehtaa/exercism/scala/difference-of-squares/src/main/scala/Squares.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURtuzp11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvZGlmZmVyZW5jZS1vZi1zcXVhcmVzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURtz0yx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvZGlmZmVyZW5jZS1vZi1zcXVhcmVzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABURt3KNF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvZGlmZmVyZW5jZS1vZi1zcXVhcmVzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

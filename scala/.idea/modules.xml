@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares-build.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/etl/.idea/modules/etl.iml" filepath="$PROJECT_DIR$/etl/.idea/modules/etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/etl/.idea/modules/etl-build.iml" filepath="$PROJECT_DIR$/etl/.idea/modules/etl-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond.iml" filepath="$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond.iml" />

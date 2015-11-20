@@ -3,6 +3,12 @@
   <component name="ScalaSbtSettings">
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/accumulate" />
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/anagram" />
         <option name="modules">
           <set>
@@ -37,6 +43,12 @@
             <option value="$PROJECT_DIR$/bob/project" />
           </set>
         </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/difference-of-squares" />
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/etl" />
