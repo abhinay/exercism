@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/scrabble-score/.idea/modules/scrabble-score-build.iml" filepath="$PROJECT_DIR$/scrabble-score/.idea/modules/scrabble-score-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/space-age/.idea/modules/space-age.iml" filepath="$PROJECT_DIR$/space-age/.idea/modules/space-age.iml" />
       <module fileurl="file://$PROJECT_DIR$/space-age/.idea/modules/space-age-build.iml" filepath="$PROJECT_DIR$/space-age/.idea/modules/space-age-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sublist/.idea/modules/sublist.iml" filepath="$PROJECT_DIR$/sublist/.idea/modules/sublist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sublist/.idea/modules/sublist-build.iml" filepath="$PROJECT_DIR$/sublist/.idea/modules/sublist-build.iml" />
     </modules>
   </component>
 </project>

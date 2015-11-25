@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accumulate/src/main/scala/Accumulate.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/difference-of-squares/src/main/scala/Squares.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sublist/.idea/modules/sublist-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sublist/.idea/modules/sublist.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala.iml" afterPath="$PROJECT_DIR$/.idea/scala.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -80,6 +78,9 @@
     <ignored path="$PROJECT_DIR$/accumulate/target/" />
     <ignored path="$PROJECT_DIR$/accumulate/project/project/target/" />
     <ignored path="$PROJECT_DIR$/accumulate/project/target/" />
+    <ignored path="$PROJECT_DIR$/sublist/target/" />
+    <ignored path="$PROJECT_DIR$/sublist/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/sublist/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +115,9 @@
     <projectState path="$PROJECT_DIR$/space-age">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/sublist">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="SBT">
@@ -127,11 +131,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Accumulate.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/accumulate/src/main/scala/Accumulate.scala">
+      <file leaf-file-name="sublist_test.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sublist/src/test/scala/sublist_test.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35450518">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sublist.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.68685377">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sublist/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -198,6 +222,9 @@
         <option value="$PROJECT_DIR$/difference-of-squares/src/main/scala/Squares.scala" />
         <option value="$PROJECT_DIR$/accumulate/src/test/scala/accumulate_test.scala" />
         <option value="$PROJECT_DIR$/accumulate/src/main/scala/Accumulate.scala" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13" />
+        <option value="$PROJECT_DIR$/sublist/src/test/scala/sublist_test.scala" />
+        <option value="$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala" />
       </list>
     </option>
   </component>
@@ -273,7 +300,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="accumulate" />
+              <option name="myItemId" value="sublist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -287,7 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="accumulate" />
+              <option name="myItemId" value="sublist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -303,7 +330,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="accumulate_test.scala" />
+              <option name="myItemId" value="sublist_test.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -317,7 +344,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="accumulate" />
+              <option name="myItemId" value="sublist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -349,43 +376,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="false" name="HammingSpecs" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hamming" />
-      <setting name="path" value="HammingSpecs" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="HelloWorldTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hello-world" />
-      <setting name="path" value="HelloWorldTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.SublistSpecs.sublist at start">
     <configuration default="false" name="MeetupTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="meetup" />
@@ -427,6 +425,36 @@
       <setting name="searchForTest" value="Across module dependencies" />
       <setting name="testName" value="monteenth of august 2013" />
       <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SublistSpecs.sublist at start" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="sublist" />
+      <setting name="path" value="SublistSpecs" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="sublist at start" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SublistSpecs" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="sublist" />
+      <setting name="path" value="SublistSpecs" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
       <envs />
       <method />
@@ -887,15 +915,21 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.HammingSpecs" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.HelloWorldTest" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.MeetupTest" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.MeetupTest.last monday of march 2013" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.MeetupTest.monteenth of august 2013" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.MeetupTest" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.MeetupTest.last monday of march 2013" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.MeetupTest.monteenth of august 2013" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.SublistSpecs.sublist at start" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.SublistSpecs" />
     </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.SublistSpecs.sublist at start" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.SublistSpecs" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1447868331268" />
+    <option name="lastUpdateTimestamp" value="1448038263196" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1241,6 +1275,26 @@
         <entry>
           <key>
             <ExternalProjectPojo>
+              <option name="name" value="sublist" />
+              <option name="path" value="$PROJECT_DIR$/sublist" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sublist" />
+                <option name="path" value="$PROJECT_DIR$/sublist" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sublist-build" />
+                <option name="path" value="$PROJECT_DIR$/sublist/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
               <option name="name" value="word-count" />
               <option name="path" value="$PROJECT_DIR$/word-count" />
             </ExternalProjectPojo>
@@ -1302,12 +1356,32 @@
       <workItem from="1447068617281" duration="252000" />
       <workItem from="1447068883228" duration="23781000" />
       <workItem from="1447349110939" duration="597000" />
-      <workItem from="1447408212546" duration="18616000" />
+      <workItem from="1447408212546" duration="31527000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 08m 26s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 09m 11s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 10m 15s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 11m 08s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 17m 01s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SublistSpecs_sublist_at_start - 2015.11.24 at 17h 21m 25s.xml">
+      <configuration name="SublistSpecs.sublist at start" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110138000" />
+    <option name="totallyTimeSpent" value="123049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -1315,29 +1389,29 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1386,46 +1460,15 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="1" />
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/robot-name/src/test/scala/robot_name_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.044313148">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robot-name/src/main/scala/Robot.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.044313148">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leap/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leap/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etl/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leap/src/main/scala/Year.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15509601">
@@ -1745,18 +1788,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bob/src/main/scala/Bob.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18461539">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/accumulate/src/main/scala/Accumulate.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35450518">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sublist/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35450518">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bob/src/main/scala/Bob.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.035885166">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sublist/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sublist/src/test/scala/sublist_test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68685377">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1814,12 +1897,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>etl-build</last-edited>
+          <last-edited>scala</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
