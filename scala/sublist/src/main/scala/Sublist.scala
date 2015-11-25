@@ -1,17 +1,17 @@
 import scala.annotation.tailrec
 
 object Sublist {
-  type SublistResult = String
+  sealed trait SublistResult
 
-  val Equal = new SublistResult("equal")
-  val Sublist = new SublistResult("sublist")
-  val Superlist = new SublistResult("superlist")
-  val Unequal = new SublistResult("unequal")
+  object Equal extends SublistResult
+  object Sublist extends SublistResult
+  object Superlist extends SublistResult
+  object Unequal extends SublistResult
 }
 
 class Sublist {
   def sublist[T](list1: List[T], list2: List[T]) =
-    if (list2.equals(list1)) Sublist.Equal
+    if (list2 == list1) Sublist.Equal
     else if (isSublist(list1, list2)) Sublist.Sublist
     else if (isSublist(list2, list1)) Sublist.Superlist
     else Sublist.Unequal
