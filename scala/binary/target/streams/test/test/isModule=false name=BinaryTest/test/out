@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mBinaryTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- empty string[0m[0m
+[0m[[0minfo[0m] [0m[32m- invalid string - all chars invalid[0m[0m
+[0m[[0minfo[0m] [0m[32m- invalid string - leading char invalid[0m[0m
+[0m[[0minfo[0m] [0m[32m- invalid string - trailing char invalid[0m[0m
+[0m[[0minfo[0m] [0m[32m- invalid string - middle char invalid[0m[0m
+[0m[[0minfo[0m] [0m[32m- 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- 2[0m[0m
+[0m[[0minfo[0m] [0m[32m- 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- 4[0m[0m
+[0m[[0minfo[0m] [0m[32m- 9[0m[0m
+[0m[[0minfo[0m] [0m[32m- 26[0m[0m
+[0m[[0minfo[0m] [0m[32m- Ultimate answer to everything[0m[0m
+[0m[[0minfo[0m] [0m[32m- 1128[0m[0m

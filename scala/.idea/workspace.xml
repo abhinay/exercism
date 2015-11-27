@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary/.idea/modules/binary.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary/src/main/scala/Binary.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/triangle/.idea/modules/triangle-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/triangle/.idea/modules/triangle.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/triangle/src/main/scala/Triangle.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="" />
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -1412,7 +1400,7 @@
       <workItem from="1447068617281" duration="252000" />
       <workItem from="1447068883228" duration="23781000" />
       <workItem from="1447349110939" duration="597000" />
-      <workItem from="1447408212546" duration="54413000" />
+      <workItem from="1447408212546" duration="54451000" />
     </task>
     <servers />
   </component>
@@ -1446,7 +1434,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145935000" />
+    <option name="totallyTimeSpent" value="145973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
