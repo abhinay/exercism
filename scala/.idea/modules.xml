@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" />
       <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
       <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares-build.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/etl/.idea/modules/etl.iml" filepath="$PROJECT_DIR$/etl/.idea/modules/etl.iml" />
@@ -23,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/space-age/.idea/modules/space-age-build.iml" filepath="$PROJECT_DIR$/space-age/.idea/modules/space-age-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/sublist/.idea/modules/sublist.iml" filepath="$PROJECT_DIR$/sublist/.idea/modules/sublist.iml" />
       <module fileurl="file://$PROJECT_DIR$/sublist/.idea/modules/sublist-build.iml" filepath="$PROJECT_DIR$/sublist/.idea/modules/sublist-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle/.idea/modules/triangle.iml" filepath="$PROJECT_DIR$/triangle/.idea/modules/triangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/triangle/.idea/modules/triangle-build.iml" filepath="$PROJECT_DIR$/triangle/.idea/modules/triangle-build.iml" />
     </modules>
   </component>
 </project>
