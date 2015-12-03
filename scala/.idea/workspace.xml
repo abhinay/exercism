@@ -2,17 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roman-numerals/src/main/scala/RomanNumeral.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/allergies/src/main/scala/Allergies.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/raindrops/src/main/scala/Raindrops.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$06f5f83ff0ceec6e885e$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$06f5f83ff0ceec6e885e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$06f5f83ff0ceec6e885e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$06f5f83ff0ceec6e885e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$0abb7ad026c9153ce9c1$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$0abb7ad026c9153ce9c1$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$0abb7ad026c9153ce9c1.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$0abb7ad026c9153ce9c1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$86a031a636e03c1354b9$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$86a031a636e03c1354b9$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$86a031a636e03c1354b9.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$86a031a636e03c1354b9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$bb445a70ea5ec01aea96$$anonfun$$sbtdef$1$$anonfun$apply$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$bb445a70ea5ec01aea96$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$bb445a70ea5ec01aea96$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$bb445a70ea5ec01aea96.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$bb445a70ea5ec01aea96.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$d2bfb6559786c43fb65e$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$d2bfb6559786c43fb65e$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$d2bfb6559786c43fb65e.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/project/target/config-classes/$d2bfb6559786c43fb65e.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/target/scala-2.11/classes/PrimeFactors$$anonfun$PrimeFactors$$isPrime$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/prime-factors/target/scala-2.11/classes/PrimeFactors$$anonfun$nextPrime$1.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/scala-2.11/classes/PrimeFactors.class" afterPath="$PROJECT_DIR$/prime-factors/target/scala-2.11/classes/PrimeFactors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala" afterPath="$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/default/prime-factors_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/default/prime-factors_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/default/prime-factors_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/default/prime-factors_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-compile.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-docs.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-optional.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-plugin.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-pom.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-provided.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-runtime.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-sources.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-test.xml" afterPath="$PROJECT_DIR$/prime-factors/target/resolution-cache/reports/default-prime-factors_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/prime-factors/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/prime-factors/target/streams/$global/update/$global/streams/out" />
     </list>
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,6 +140,12 @@
     <ignored path="$PROJECT_DIR$/prime-factors/target/" />
     <ignored path="$PROJECT_DIR$/prime-factors/project/project/target/" />
     <ignored path="$PROJECT_DIR$/prime-factors/project/target/" />
+    <ignored path="$PROJECT_DIR$/raindrops/target/" />
+    <ignored path="$PROJECT_DIR$/raindrops/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/raindrops/project/target/" />
+    <ignored path="$PROJECT_DIR$/allergies/target/" />
+    <ignored path="$PROJECT_DIR$/allergies/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/allergies/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +160,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$/accumulate">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/allergies">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/binary">
@@ -130,6 +181,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/prime-factors">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/raindrops">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/rna-transcription">
@@ -184,8 +238,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello-world/src/test/scala/HelloWorldTest.scala" />
-        <option value="$PROJECT_DIR$/hello-world/src/main/scala/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/bob/src/test/scala/Bob.scala" />
         <option value="$PROJECT_DIR$/bob/src/test/scala/bob_test.scala" />
         <option value="$PROJECT_DIR$/bob/src/main/scala/Bob.scala" />
@@ -235,6 +287,8 @@
         <option value="$PROJECT_DIR$/roman-numerals/src/main/scala/RomanNumeral.scala" />
         <option value="$PROJECT_DIR$/prime-factors/src/test/scala/primefactors_test.scala" />
         <option value="$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala" />
+        <option value="$PROJECT_DIR$/raindrops/src/main/scala/Raindrops.scala" />
+        <option value="$PROJECT_DIR$/allergies/src/main/scala/Allergies.scala" />
       </list>
     </option>
   </component>
@@ -310,7 +364,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="roman-numerals" />
+              <option name="myItemId" value="allergies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -324,7 +378,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="roman-numerals" />
+              <option name="myItemId" value="allergies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -340,7 +394,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="roman_numerals_test.scala" />
+              <option name="myItemId" value="allergies_test.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,95 +408,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="roman-numerals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prime-factors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prime-factors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prime-factors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="primefactors_test.scala" />
-              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scala" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prime-factors" />
+              <option name="myItemId" value="allergies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -481,22 +447,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.PrimeFactorsTest">
-    <configuration default="false" name="DnaTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="rna-transcription" />
-      <setting name="path" value="DnaTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.RaindropsTest">
     <configuration default="false" name="BinaryTest.4" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="binary" />
@@ -546,6 +497,21 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="prime-factors" />
       <setting name="path" value="PrimeFactorsTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RaindropsTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="raindrops" />
+      <setting name="path" value="RaindropsTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -1013,24 +979,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.DnaTest" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.DnaTest" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1448902632070" />
+    <option name="lastUpdateTimestamp" value="1449136585083" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1049,6 +1015,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="accumulate-build" />
                 <option name="path" value="$PROJECT_DIR$/accumulate/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="allergies" />
+              <option name="path" value="$PROJECT_DIR$/allergies" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="allergies" />
+                <option name="path" value="$PROJECT_DIR$/allergies" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="allergies-build" />
+                <option name="path" value="$PROJECT_DIR$/allergies/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1356,6 +1342,26 @@
         <entry>
           <key>
             <ExternalProjectPojo>
+              <option name="name" value="raindrops" />
+              <option name="path" value="$PROJECT_DIR$/raindrops" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="raindrops" />
+                <option name="path" value="$PROJECT_DIR$/raindrops" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="raindrops-build" />
+                <option name="path" value="$PROJECT_DIR$/raindrops/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
               <option name="name" value="rna-transcription" />
               <option name="path" value="$PROJECT_DIR$/rna-transcription" />
             </ExternalProjectPojo>
@@ -1557,44 +1563,44 @@
       <workItem from="1447068617281" duration="252000" />
       <workItem from="1447068883228" duration="23781000" />
       <workItem from="1447349110939" duration="597000" />
-      <workItem from="1447408212546" duration="77654000" />
+      <workItem from="1447408212546" duration="92938000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 39m 18s.xml">
+    <history-entry file="PrimeFactorsTest - 2015.12.02 at 10h 10m 01s.xml">
       <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 42m 11s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 14h 48m 20s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 45m 50s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 14h 51m 19s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 52m 17s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 14h 51m 32s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 54m 10s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 14h 53m 01s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 14h 55m 53s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 14h 53m 13s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 15h 17m 35s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 16h 22m 16s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 15h 18m 18s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 16h 23m 03s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 15h 24m 04s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 16h 28m 58s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest - 2015.12.01 at 15h 27m 50s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="RaindropsTest - 2015.12.02 at 16h 40m 38s.xml">
+      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169176000" />
+    <option name="totallyTimeSpent" value="184460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -1608,7 +1614,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45673758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1682,76 +1688,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grains/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/etl/src/main/scala/ETL.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13293944">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meetup/src/main/scala/Meetup.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84194976">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grains/src/main/scala/Grains.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11078287">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grains/src/test/scala/grains_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77548003">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grains/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gigasecond/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/util/GregorianCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="910" column="16" selection-start-line="910" selection-start-column="16" selection-end-line="910" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gigasecond/src/test/scala/gigasecond_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31019202">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gigasecond/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gigasecond/src/main/scala/Gigasecond.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.11078287">
@@ -1875,14 +1811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.035885166">
           <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68685377">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2057,14 +1985,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7078652">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prime-factors/src/test/scala/primefactors_test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.66292137">
@@ -2077,6 +1997,102 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7977528">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.505618">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raindrops/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raindrops/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/SetLike.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.111111">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raindrops/src/test/scala/raindrops_test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/package.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raindrops/src/main/scala/Raindrops.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37666175">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sublist/src/main/scala/Sublist.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.101123594">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/src/main/scala/Allergies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5096012">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allergies/src/test/scala/allergies_test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2850813">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>

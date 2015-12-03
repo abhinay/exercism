@@ -1,21 +1,15 @@
 import scala.annotation.tailrec
 
 case class PrimeFactors() {
-  def primeFactors(number: Long) = findPrimeFactors(2, number, List())
+  def primeFactors(number: Long) = findFactors(2, number, List())
 
   @tailrec
-  private def findPrimeFactors(prime: Int, remaining: Long, factors: List[Int]): List[Int] = {
+  private def findFactors(divisor: Int, remaining: Long, factors: List[Int]): List[Int] = {
     if (remaining <= 1)
       factors.reverse
-    else if (remaining % prime == 0)
-      findPrimeFactors(prime, remaining/prime, prime :: factors)
+    else if (remaining % divisor == 0)
+      findFactors(divisor, remaining/divisor, divisor :: factors)
     else
-      findPrimeFactors(nextPrime(prime), remaining, factors)
+      findFactors(divisor + 1, remaining, factors)
   }
-
-  private def nextPrime(from: Int) = {
-    Stream.from(from + 1).find(isPrime).get
-  }
-
-  private def isPrime(i: Int) = !Range(2, i).exists(i % _ == 0)
 }

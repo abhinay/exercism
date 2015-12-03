@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate.iml" />
       <module fileurl="file://$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" filepath="$PROJECT_DIR$/accumulate/.idea/modules/accumulate-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allergies/.idea/modules/allergies.iml" filepath="$PROJECT_DIR$/allergies/.idea/modules/allergies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allergies/.idea/modules/allergies-build.iml" filepath="$PROJECT_DIR$/allergies/.idea/modules/allergies-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
@@ -18,6 +20,8 @@
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors-build.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raindrops/.idea/modules/raindrops.iml" filepath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" filepath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" filepath="$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" />
       <module fileurl="file://$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription-build.iml" filepath="$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals.iml" filepath="$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals.iml" />
