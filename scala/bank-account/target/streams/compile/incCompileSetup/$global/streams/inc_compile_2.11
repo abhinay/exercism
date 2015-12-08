@@ -1,0 +1,110 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> /Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount$$anonfun$incrementBalance$1.class
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> /Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount$.class
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> /Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount.class
+binary dependencies:
+2 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> /Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> BankAccount
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> BankAccount$
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> BankAccount$$anonfun$incrementBalance$1
+used names:
+26 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> &&
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> +
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> <init>
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> ==
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> AbstractFunction0
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> BankAccount
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> Int
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> None
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> Option
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> Product
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> ScalaRunTime
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> Serializable
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> _hashCode
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> _toString
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> amount
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> apply
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> asInstanceOf
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> balance
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> balance_=
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> isInstanceOf
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> map
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> runtime
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> scala
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> synchronized
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> toString
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> typedProductIterator
+product stamps:
+3 items
+/Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount$$anonfun$incrementBalance$1.class -> lastModified(1449583152000)
+/Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount$.class -> lastModified(1449583152000)
+/Users/mehtaa/exercism/scala/bank-account/target/scala-2.11/classes/BankAccount.class -> lastModified(1449583152000)
+source stamps:
+1 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> hash(54376345056870290834ea2228f4f10ebdd7f0b1)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction0
+internal apis:
+1 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA2LYonAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDuaokJ0AAZub3RpZnlzcQB+AAyQOeHTdAALQmFua0FjY291bnRzcQB+AAzAvewXdAAEd2FpdHNxAH4ADNYW4bV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMVEs9k3QADHByb2R1Y3RBcml0eXNxAH4ADLyFbZp0AAZlcXVhbHNzcQB+AAxqfy3CdAAMYXNJbnN0YW5jZU9mc3EAfgAMrRSxpHQAEGluY3JlbWVudEJhbGFuY2VzcQB+AAwo8sI4dAAMc3luY2hyb25pemVkc3EAfgAM7ZrsfHQADSRpc0luc3RhbmNlT2ZzcQB+AAy5qT/ZdAAKZ2V0QmFsYW5jZXNxAH4ADBd78Td0AAhjYW5FcXVhbHNxAH4ADKKuXnF0AAdiYWxhbmNlc3EAfgAM98cyYnQADXByb2R1Y3RQcmVmaXhzcQB+AAx9wpOIdAAJbm90aWZ5QWxsc3EAfgAMfVgyK3QADGlzSW5zdGFuY2VPZnNxAH4ADCe2Uv10AAY8aW5pdD5zcQB+AAyVhh4OdAACPT1zcQB+AAy744cSdAAFY2xvbmVzcQB+AAxaVEmXdAAMY2xvc2VBY2NvdW50c3EAfgAMHnN/m3QABGNvcHlzcQB+AAwrpXbVdAAIdG9TdHJpbmdzcQB+AAzZcStzdAACIT1zcQB+AAyFbm2bdAAIZ2V0Q2xhc3NzcQB+AAwKbH3idAACbmVzcQB+AAzbgwKJdAACZXFzcQB+AAxy6UTxdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM7V3H33QAAiMjc3EAfgAMO8Hd83QACGZpbmFsaXplc3EAfgAMBFcr/nQADnByb2R1Y3RFbGVtZW50c3EAfgAMp0e2oHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBteHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBsAHBzcQB+AHFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgB1c3EAfgBsAHBzcQB+AHF1cQB+AFAAAAAAc3EAfgBsAHBzcQB+AHF1cQB+AFAAAAAAc3EAfgBsAHBzcQB+AHF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJJzcQB+AIVxAH4AiHNxAH4AiXNxAH4AjHVxAH4AjwAAAANzcQB+AJF0AARqYXZhc3EAfgCRdAACaW9xAH4AlnNxAH4AhXQAB1Byb2R1Y3RxAH4Ai3NxAH4AhXQABkVxdWFsc3EAfgCLc3EAfgCFdAAGT2JqZWN0c3EAfgCJc3EAfgCMdXEAfgCPAAAAA3NxAH4AkXEAfgCcc3EAfgCRdAAEbGFuZ3EAfgCWc3EAfgCFdAADQW55cQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYHjhTx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDL1VzZXJzL21laHRhYS9leGVyY2lzbS9zY2FsYS9iYW5rLWFjY291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFQ3Y0UFaHApCDTqIij08Q691/Cx
+external apis:
+0 items
+source infos:
+1 items
+/Users/mehtaa/exercism/scala/bank-account/src/main/scala/BankAccount.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYHZL4V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvYmFuay1hY2NvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYHbGH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvYmFuay1hY2NvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYHcX9J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvYmFuay1hY2NvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUYHjhTx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvYmFuay1hY2NvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

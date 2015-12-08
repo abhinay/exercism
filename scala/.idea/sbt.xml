@@ -63,6 +63,12 @@
         <option name="useOurOwnAutoImport" value="true" />
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bank-account" />
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/binary" />
         <option name="modules">
           <set>

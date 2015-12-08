@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/allergies/.idea/modules/allergies-build.iml" filepath="$PROJECT_DIR$/allergies/.idea/modules/allergies-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/atbash-cipher/.idea/modules/atbash-cipher.iml" filepath="$PROJECT_DIR$/atbash-cipher/.idea/modules/atbash-cipher.iml" />
       <module fileurl="file://$PROJECT_DIR$/atbash-cipher/.idea/modules/atbash-cipher-build.iml" filepath="$PROJECT_DIR$/atbash-cipher/.idea/modules/atbash-cipher-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/.idea/modules/bank-account.iml" filepath="$PROJECT_DIR$/bank-account/.idea/modules/bank-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account/.idea/modules/bank-account-build.iml" filepath="$PROJECT_DIR$/bank-account/.idea/modules/bank-account-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
