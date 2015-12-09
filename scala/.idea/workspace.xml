@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank-account/.idea/modules/bank-account-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank-account/.idea/modules/bank-account.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto-square/src/main/scala/CryptoSquare.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/atbash-cipher/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterPath="$PROJECT_DIR$/atbash-cipher/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/atbash-cipher/target/streams/test/definedTests/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/atbash-cipher/target/streams/test/test/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/atbash-cipher/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atbash-cipher/target/test-reports/AtbashTest.xml" afterPath="$PROJECT_DIR$/atbash-cipher/target/test-reports/AtbashTest.xml" />
     </list>
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,6 +107,9 @@
     <ignored path="$PROJECT_DIR$/bank-account/target/" />
     <ignored path="$PROJECT_DIR$/bank-account/project/project/target/" />
     <ignored path="$PROJECT_DIR$/bank-account/project/target/" />
+    <ignored path="$PROJECT_DIR$/crypto-square/target/" />
+    <ignored path="$PROJECT_DIR$/crypto-square/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/crypto-square/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +136,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/binary">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/crypto-square">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/difference-of-squares">
@@ -190,21 +190,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BankAccountTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bank-account/src/test/scala/BankAccountTest.scala">
+      <file leaf-file-name="CryptoSquare.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crypto-square/src/main/scala/CryptoSquare.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BankAccount.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala">
+      <file leaf-file-name="IterableLike.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar!/scala/collection/IterableLike.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2658789">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.555555">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrytpoSquareTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crypto-square/src/test/scala/CrytpoSquareTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -232,7 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bob/src/main/scala/Bob.scala" />
         <option value="$PROJECT_DIR$/hamming/src/main/scala/z.scala" />
         <option value="$PROJECT_DIR$/hamming/src/test/scala/hamming_test.scala" />
         <option value="$PROJECT_DIR$/word-count/src/test/scala/word_count_test.scala" />
@@ -283,6 +292,7 @@
         <option value="$PROJECT_DIR$/allergies/src/main/scala/Allergies.scala" />
         <option value="$PROJECT_DIR$/atbash-cipher/src/main/scala/Atbash.scala" />
         <option value="$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala" />
+        <option value="$PROJECT_DIR$/crypto-square/src/main/scala/CryptoSquare.scala" />
       </list>
     </option>
   </component>
@@ -358,7 +368,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bank-account" />
+              <option name="myItemId" value="crypto-square" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,7 +382,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bank-account" />
+              <option name="myItemId" value="crypto-square" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -398,7 +408,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bank-account" />
+              <option name="myItemId" value="crypto-square" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -986,7 +996,7 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1449575291833" />
+    <option name="lastUpdateTimestamp" value="1449586383757" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1125,6 +1135,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="bob-build" />
                 <option name="path" value="$PROJECT_DIR$/bob/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="crypto-square" />
+              <option name="path" value="$PROJECT_DIR$/crypto-square" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="crypto-square" />
+                <option name="path" value="$PROJECT_DIR$/crypto-square" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="crypto-square-build" />
+                <option name="path" value="$PROJECT_DIR$/crypto-square/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1605,7 +1635,7 @@
       <workItem from="1447349110939" duration="597000" />
       <workItem from="1447408212546" duration="94532000" />
       <workItem from="1449241186228" duration="633000" />
-      <workItem from="1449246402904" duration="7003000" />
+      <workItem from="1449246402904" duration="18260000" />
     </task>
     <servers />
   </component>
@@ -1642,7 +1672,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193690000" />
+    <option name="totallyTimeSpent" value="204947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -1730,41 +1760,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/accumulate/src/test/scala/accumulate_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accumulate/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accumulate/src/main/scala/Accumulate.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35450518">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sublist/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35450518">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bob/src/main/scala/Bob.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.035885166">
@@ -2086,18 +2081,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2658789">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bank-account/src/test/scala/BankAccountTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.22156574">
           <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala">
+    <entry file="file://$PROJECT_DIR$/crypto-square/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2658789">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-square/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-square/src/test/scala/CrytpoSquareTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar!/scala/collection/IterableLike.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.555555">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-square/src/main/scala/CryptoSquare.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
