@@ -22,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond-build.iml" filepath="$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains.iml" />
       <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" />
@@ -30,6 +32,8 @@
       <module fileurl="file://$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" filepath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" filepath="$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" />
       <module fileurl="file://$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription-build.iml" filepath="$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot-simulator/.idea/modules/robot-simulator.iml" filepath="$PROJECT_DIR$/robot-simulator/.idea/modules/robot-simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robot-simulator/.idea/modules/robot-simulator-build.iml" filepath="$PROJECT_DIR$/robot-simulator/.idea/modules/robot-simulator-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals.iml" filepath="$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals.iml" />
       <module fileurl="file://$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals-build.iml" filepath="$PROJECT_DIR$/roman-numerals/.idea/modules/roman-numerals-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scala.iml" filepath="$PROJECT_DIR$/.idea/scala.iml" />

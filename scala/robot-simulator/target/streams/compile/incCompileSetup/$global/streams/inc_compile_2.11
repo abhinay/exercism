@@ -1,0 +1,155 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$Bearing.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$East$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$North$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$South$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$West$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot$$anonfun$simulate$1.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot$.class
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot.class
+binary dependencies:
+2 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> /Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$Bearing
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$East$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$North$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$South$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing$West$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Robot
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Robot$
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Robot$$anonfun$simulate$1
+used names:
+51 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> &&
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> +
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> ->
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> <init>
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> ==
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> AnyRef
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Bearing
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> CoordTransitions
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> East
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Int
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> LeftTransitions
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Map
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> None
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> North
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Predef
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Product
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> RightTransitions
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Robot
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> ScalaRunTime
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Serializable
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> South
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> String
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> Tuple2
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> West
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> _1
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> _2
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> _hashCode
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> _toString
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> addCoords
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> advance
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> apply
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> asInstanceOf
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> augmentString
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> bearing
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> coordinates
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> coords1
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> coords2
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> eq
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> foldLeft
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> instruction
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> isInstanceOf
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> move
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> robot
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> runtime
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> scala
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> toInt
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> toString
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> turnLeft
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> turnRight
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> typedProductIterator
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> ||
+product stamps:
+10 items
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$Bearing.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$East$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$North$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$South$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing$West$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Bearing.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot$$anonfun$simulate$1.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot$.class -> lastModified(1450198592000)
+/Users/mehtaa/exercism/scala/robot-simulator/target/scala-2.11/classes/Robot.class -> lastModified(1450198592000)
+source stamps:
+1 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> hash(ab94c973107b4b91a587224ed92d79cb741962d0)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBidVULAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAL3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOH4/eV0AAZub3RpZnlzcQB+AAyg+gBodAALY29vcmRpbmF0ZXNzcQB+AAwGmd55dAAIc2ltdWxhdGVzcQB+AAxJK074dAAHdW5hcHBseXNxAH4ADDq+HDp0AAdCZWFyaW5nc3EAfgAM+N6ZxnQABHdhaXRzcQB+AAyrqN7+dAAFU291dGhzcQB+AAxedWLGdAAOY29weSRkZWZhdWx0JDJzcQB+AAwJzlPJdAANJGFzSW5zdGFuY2VPZnNxAH4ADNMop4t0ABBDb29yZFRyYW5zaXRpb25zc3EAfgAMo/CAUXQADHByb2R1Y3RBcml0eXNxAH4ADNGZNJB0AAZlcXVhbHNzcQB+AAyWjbXIdAAERWFzdHNxAH4ADLa/BG50AAxhc0luc3RhbmNlT2ZzcQB+AAz0Xk4IdAAMc3luY2hyb25pemVkc3EAfgAM79/23nQADSRpc0luc3RhbmNlT2ZzcQB+AAza9k44dAAHYWR2YW5jZXNxAH4ADAuXTix0AAhjYW5FcXVhbHNxAH4ADMIFBQV0AAlhZGRDb29yZHNzcQB+AAyg+fn3dAANcHJvZHVjdFByZWZpeHNxAH4ADE3cIQ90AAlub3RpZnlBbGxzcQB+AAzAS0StdAALcmVhZFJlc29sdmVzcQB+AAzKDlV9dAAMaXNJbnN0YW5jZU9mc3EAfgAMTQX+wnQABjxpbml0PnNxAH4ADBpQ2zN0AAVhcHBseXNxAH4ADNRhCy90AAVSb2JvdHNxAH4ADKSNDnR0AAI9PXNxAH4ADOE5RRR0ABBSaWdodFRyYW5zaXRpb25zc3EAfgAMhIIK+nQABWNsb25lc3EAfgAMmQmAK3QABGNvcHlzcQB+AAyRU+gmdAAIdG9TdHJpbmdzcQB+AAwLszWmdAACIT1zcQB+AAzY9RG/dAAIZ2V0Q2xhc3NzcQB+AAwiSgtKdAAOY29weSRkZWZhdWx0JDFzcQB+AAxJ6JbbdAAEV2VzdHNxAH4ADIDPa/R0AAl0dXJuUmlnaHRzcQB+AAyjNxfKdAAPTGVmdFRyYW5zaXRpb25zc3EAfgAM23AQ6HQAAm5lc3EAfgAMRNRTRHQAAmVxc3EAfgAMVgSL8XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADOSIGIV0AAdiZWFyaW5nc3EAfgAMvpTddHQAAiMjc3EAfgAMBHXBXXQACGZpbmFsaXplc3EAfgAMe6ZWNXQADnByb2R1Y3RFbGVtZW50c3EAfgAMfpZaMXQACGhhc2hDb2Rlc3EAfgAMP1Xke3QACHR1cm5MZWZ0c3EAfgAMeBDicXQABU5vcnRoc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBBdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHVMAAlpbmhlcml0ZWRxAH4AdUw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
+external apis:
+0 items
+source infos:
+1 items
+/Users/mehtaa/exercism/scala/robot-simulator/src/main/scala/Robot.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaY4hXR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcm9ib3Qtc2ltdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaaPVN11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcm9ib3Qtc2ltdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaaSYoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcm9ib3Qtc2ltdWxhdG9yL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

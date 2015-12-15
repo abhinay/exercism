@@ -58,15 +58,39 @@
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/atbash-cipher" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/atbash-cipher" />
+            <option value="$PROJECT_DIR$/atbash-cipher/project" />
+          </set>
+        </option>
         <option name="sbtVersion" value="0.13.8" />
         <option name="useAutoImport" value="true" />
         <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/atbash-cipher" />
+            <option value="$PROJECT_DIR$/atbash-cipher/project" />
+          </set>
+        </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/bank-account" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/bank-account" />
+            <option value="$PROJECT_DIR$/bank-account/project" />
+          </set>
+        </option>
         <option name="sbtVersion" value="0.13.8" />
         <option name="useAutoImport" value="true" />
         <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/bank-account" />
+            <option value="$PROJECT_DIR$/bank-account/project" />
+          </set>
+        </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/binary" />
@@ -106,9 +130,21 @@
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/crypto-square" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/crypto-square" />
+            <option value="$PROJECT_DIR$/crypto-square/project" />
+          </set>
+        </option>
         <option name="sbtVersion" value="0.13.8" />
         <option name="useAutoImport" value="true" />
         <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/crypto-square" />
+            <option value="$PROJECT_DIR$/crypto-square/project" />
+          </set>
+        </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/difference-of-squares" />
@@ -233,6 +269,24 @@
           <set>
             <option value="$PROJECT_DIR$/hello-world" />
             <option value="$PROJECT_DIR$/hello-world/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kindergarten-garden" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kindergarten-garden" />
+            <option value="$PROJECT_DIR$/kindergarten-garden/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/kindergarten-garden" />
+            <option value="$PROJECT_DIR$/kindergarten-garden/project" />
           </set>
         </option>
       </SbtProjectSettings>
@@ -377,6 +431,24 @@
           <set>
             <option value="$PROJECT_DIR$/robot-name" />
             <option value="$PROJECT_DIR$/robot-name/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/robot-simulator" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/robot-simulator" />
+            <option value="$PROJECT_DIR$/robot-simulator/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/robot-simulator" />
+            <option value="$PROJECT_DIR$/robot-simulator/project" />
           </set>
         </option>
       </SbtProjectSettings>

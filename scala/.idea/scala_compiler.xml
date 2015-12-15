@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="SBT 1" modules="hello-world,bob,hamming,project,word-count,phone-number,anagram,grade-school,nucleotide-count,robot-name,leap,etl,meetup,space-age,grains,gigasecond,scrabble-score,triangle,roman-numerals,raindrops,sublist,accumulate,binary,prime-factors,allergies,rna-transcription,difference-of-squares,atbash-cipher,bank-account,crypto-square" />
+    <profile name="SBT 1" modules="hello-world,bob,hamming,project,word-count,phone-number,anagram,grade-school,nucleotide-count,robot-name,leap,etl,meetup,space-age,grains,gigasecond,scrabble-score,triangle,roman-numerals,raindrops,sublist,accumulate,binary,prime-factors,allergies,rna-transcription,difference-of-squares,robot-simulator,crypto-square,atbash-cipher,kindergarten-garden,bank-account" />
   </component>
 </project>
