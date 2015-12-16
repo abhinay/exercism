@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors-build.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack.iml" filepath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" filepath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/raindrops/.idea/modules/raindrops.iml" filepath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops.iml" />
       <module fileurl="file://$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" filepath="$PROJECT_DIR$/raindrops/.idea/modules/raindrops-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" filepath="$PROJECT_DIR$/rna-transcription/.idea/modules/rna-transcription.iml" />

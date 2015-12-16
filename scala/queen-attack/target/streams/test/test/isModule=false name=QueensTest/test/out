@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mQueensTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- empty boardString[0m[0m
+[0m[[0minfo[0m] [0m[32m- boardString[0m[0m
+[0m[[0minfo[0m] [0m[32m- canAttack - false[0m[0m
+[0m[[0minfo[0m] [0m[32m- canAttack - vert attack[0m[0m
+[0m[[0minfo[0m] [0m[32m- canAttack - horiz attack[0m[0m
+[0m[[0minfo[0m] [0m[32m- canAttack - diag attack[0m[0m

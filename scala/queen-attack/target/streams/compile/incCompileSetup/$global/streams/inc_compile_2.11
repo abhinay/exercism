@@ -1,0 +1,169 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Position$.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Position.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$1.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$2.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$1.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$2.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$3.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$.class
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens.class
+binary dependencies:
+2 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> /Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Position
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Position$
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$$anonfun$1
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$$anonfun$2
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$$anonfun$boardString$1
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$$anonfun$boardString$2
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens$$anonfun$boardString$3
+used names:
+59 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> &&
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> +
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> -
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> <init>
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> ==
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> AbstractFunction0
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> AbstractFunction2
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Array
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> ClassTag
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Int
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Math
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> None
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Option
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Position
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Predef
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Product
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Queens
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Row
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> ScalaRunTime
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Serializable
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Statics
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> Stream
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> _hashCode
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> _toString
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> abs
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> apply
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> arrayClass
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> asInstanceOf
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> board
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> canBuildFrom
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> clone
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> continually
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> eq
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> finalizeHash
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> foreach
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> isInstanceOf
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> java
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> lang
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> map
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> materializeClassTag
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> mix
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> mkString
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> package
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> position1
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> position2
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> q
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> queen1
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> queen2
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> refArrayOps
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> runtime
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> scala
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> take
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> toArray
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> toString
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> typedProductIterator
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> update
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> x
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> y
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> ||
+product stamps:
+9 items
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Position$.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Position.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$1.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$2.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$1.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$2.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$$anonfun$boardString$3.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens$.class -> lastModified(1450267778000)
+/Users/mehtaa/exercism/scala/queen-attack/target/scala-2.11/classes/Queens.class -> lastModified(1450267778000)
+source stamps:
+1 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> hash(006c91659535652e16f2e3323252f0c2785e3283)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mehtaa/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction2
+internal apis:
+1 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBXVglzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAI3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAORDuF0AAZub3RpZnlzcQB+AAwgGdoudAADUm93c3EAfgAMDNQbmnQAAXhzcQB+AAyCL/wzdAAEd2FpdHNxAH4ADG5kGIV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADFsli1F0AA0kYXNJbnN0YW5jZU9mc3EAfgAMC6G6BHQADHByb2R1Y3RBcml0eXNxAH4ADKdBnXF0AAZlcXVhbHNzcQB+AAzOL1UCdAABeXNxAH4ADATT72x0AAhQb3NpdGlvbnNxAH4ADKq2MUB0AAxhc0luc3RhbmNlT2ZzcQB+AAyrR5GEdAAMc3luY2hyb25pemVkc3EAfgAM2XUzb3QADSRpc0luc3RhbmNlT2ZzcQB+AAzrEUGadAAIY2FuRXF1YWxzcQB+AAz5QAYydAAGUXVlZW5zc3EAfgAMk+7Vj3QADXByb2R1Y3RQcmVmaXhzcQB+AAxDx7vddAAJbm90aWZ5QWxsc3EAfgAMAxNrinQADGlzSW5zdGFuY2VPZnNxAH4ADFHiWBR0AAljYW5BdHRhY2tzcQB+AAxQfjdtdAAGPGluaXQ+c3EAfgAMJEsFRXQAC2JvYXJkU3RyaW5nc3EAfgAM8inXlnQAAj09c3EAfgAMyKPgfHQABWNsb25lc3EAfgAMvxqryXQABGNvcHlzcQB+AAwEvR90dAAIdG9TdHJpbmdzcQB+AAze5Na2dAACIT1zcQB+AAzEXqzkdAAIZ2V0Q2xhc3NzcQB+AAz3Wk4idAAOY29weSRkZWZhdWx0JDFzcQB+AAwBLHmPdAACbmVzcQB+AAwPxbC/dAACZXFzcQB+AAzyXLfadAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMNs+r/XQAAiMjc3EAfgAM1f0cY3QACGZpbmFsaXplc3EAfgAM2j5ZunQADnByb2R1Y3RFbGVtZW50c3EAfgAM3x22v3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AXXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AHQBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4Ae3NxAH4AdAF1cQB+AFgAAAAAcHNxAH4AdAF1cQB+AFgAAAAAcHNxAH4AdAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHp0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJRzcQB+AIdxAH4AinNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJN0AARqYXZhc3EAfgCTdAACaW9xAH4AmHNxAH4Ah3QAB1Byb2R1Y3RxAH4AjXNxAH4Ah3QABkVxdWFsc3EAfgCNc3EAfgCHdAAGT2JqZWN0c3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCec3EAfgCTdAAEbGFuZ3EAfgCYc3EAfgCHdAADQW55cQB+AI1wcHNxAH4AWnEAfgBndXEAfgBoAAAAAHNxAH4AagBxAH4AIXVxAH4AbAAAAABxAH4AcHVxAH4AcgAAAABzcQB+AHQBcQB+AHxwc3EAfgB0AXNxAH4AfnNxAH4AdAF1cQB+AFgAAAAAcHNxAH4AdAF1cQB+AFgAAAAAcHNxAH4AdAF1cQB+AIUAAAAGc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAACc3EAfgCTcQB+AJZxAH4AmHNxAH4Ah3EAfgCKc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCec3EAfgCTdAACaW9xAH4AmHNxAH4Ah3EAfgCicQB+AL5zcQB+AId0AAZFcXVhbHNxAH4AvnNxAH4Ah3EAfgCmc3EAfgCLc3EAfgCOdXEAfgCRAAAAA3NxAH4Ak3EAfgCec3EAfgCTcQB+AKxxAH4AmHNxAH4Ah3EAfgCucQB+AL5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRqrIQs3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEMvVXNlcnMvbWVodGFhL2V4ZXJjaXNtL3NjYWxhL3F1ZWVuLWF0dGFjay90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUAGyRZZU1ZS4W8uMyMlLwwnheMoM=
+external apis:
+0 items
+source infos:
+1 items
+/Users/mehtaa/exercism/scala/queen-attack/src/main/scala/Queens.scala -> 
+AAAAAAAAAAA=
+compilations:
+12 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqG8D11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqHvAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqcwft1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqdQwh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqfvEN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqiDrB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqjf7J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqkJPd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqkeQR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqlEO51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqqtyF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUaqyELN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9tZWh0YWEvZXhlcmNpc20vc2NhbGEvcXVlZW4tYXR0YWNrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
