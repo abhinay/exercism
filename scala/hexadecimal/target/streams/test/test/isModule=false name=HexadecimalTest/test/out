@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mHexadecimalTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle zeros[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle single digit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle single hex digit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle upper case[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle multiple digits[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle multiple hex digits[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle complex strings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should handle invalid strings[0m[0m
