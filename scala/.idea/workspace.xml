@@ -2,14 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/queen-attack/src/main/scala/Queens.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb$$anonfun$$sbtdef$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb$.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb.cache" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" afterPath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-docs.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-optional.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-plugin.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-pom.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-provided.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-sources.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/out" />
     </list>
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -119,6 +146,12 @@
     <ignored path="$PROJECT_DIR$/queen-attack/target/" />
     <ignored path="$PROJECT_DIR$/queen-attack/project/project/target/" />
     <ignored path="$PROJECT_DIR$/queen-attack/project/target/" />
+    <ignored path="$PROJECT_DIR$/binary-search-tree/target/" />
+    <ignored path="$PROJECT_DIR$/binary-search-tree/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/binary-search-tree/project/target/" />
+    <ignored path="$PROJECT_DIR$/hexadecimal/target/" />
+    <ignored path="$PROJECT_DIR$/hexadecimal/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/hexadecimal/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,6 +180,9 @@
     <projectState path="$PROJECT_DIR$/binary">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/binary-search-tree">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/crypto-square">
       <ProjectState />
     </projectState>
@@ -157,6 +193,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/grains">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/hexadecimal">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/kindergarten-garden">
@@ -207,7 +246,28 @@
     <favorites_list name="scala" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HexadecimalTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hexadecimal/src/test/scala/HexadecimalTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hexadecimal.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -229,10 +289,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nucleotide-count/src/main/scala/DNA.scala" />
-        <option value="$PROJECT_DIR$/phone-number/src/test/scala/phone_number_test.scala" />
-        <option value="$PROJECT_DIR$/phone-number/src/main/scala/PhoneNumber.scala" />
-        <option value="$PROJECT_DIR$/grade-school/src/test/scala/grade_school_test.scala" />
         <option value="$PROJECT_DIR$/robot-name/src/test/scala/Robot.scala" />
         <option value="$PROJECT_DIR$/robot-name/src/test/scala/robot_name_test.scala" />
         <option value="$PROJECT_DIR$/robot-name/src/main/scala/Robot.scala" />
@@ -280,6 +336,10 @@
         <option value="$PROJECT_DIR$/robot-simulator/src/main/scala/Robot.scala" />
         <option value="/usr/local/opt/scala/idea/lib/scala-library.jar!/scala/util/Random.class" />
         <option value="$PROJECT_DIR$/queen-attack/src/main/scala/Queens.scala" />
+        <option value="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/Int.class" />
+        <option value="$PROJECT_DIR$/binary-search-tree/src/test/scala/BstTest.scala" />
+        <option value="$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala" />
+        <option value="$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala" />
       </list>
     </option>
   </component>
@@ -325,7 +385,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -354,7 +413,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="queen-attack" />
+              <option name="myItemId" value="hexadecimal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,7 +427,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="queen-attack" />
+              <option name="myItemId" value="hexadecimal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -394,7 +453,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="queen-attack" />
+              <option name="myItemId" value="hexadecimal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -414,6 +473,7 @@
       </pane>
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -434,22 +494,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.RaindropsTest">
-    <configuration default="false" name="BinaryTest.4" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="binary" />
-      <setting name="path" value="BinaryTest" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="4" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.BstTest">
     <configuration default="false" name="RomanNumeralsSpecs.4 equals IV" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="roman-numerals" />
@@ -499,6 +544,21 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="raindrops" />
       <setting name="path" value="RaindropsTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="BstTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="binary-search-tree" />
+      <setting name="path" value="BstTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -966,24 +1026,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.BinaryTest.4" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1450199831508" />
+    <option name="lastUpdateTimestamp" value="1451406404416" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1102,6 +1162,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="binary-build" />
                 <option name="path" value="$PROJECT_DIR$/binary/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="binary-search-tree" />
+              <option name="path" value="$PROJECT_DIR$/binary-search-tree" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="binary-search-tree" />
+                <option name="path" value="$PROJECT_DIR$/binary-search-tree" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="binary-search-tree-build" />
+                <option name="path" value="$PROJECT_DIR$/binary-search-tree/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1282,6 +1362,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="hello-world-build" />
                 <option name="path" value="$PROJECT_DIR$/hello-world/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="hexadecimal" />
+              <option name="path" value="$PROJECT_DIR$/hexadecimal" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hexadecimal" />
+                <option name="path" value="$PROJECT_DIR$/hexadecimal" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hexadecimal-build" />
+                <option name="path" value="$PROJECT_DIR$/hexadecimal/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1636,6 +1736,7 @@
         <entry key="$PROJECT_DIR$/atbash-cipher" value="1449238626000" />
         <entry key="$PROJECT_DIR$/bank-account" value="1449575264000" />
         <entry key="$PROJECT_DIR$/binary" value="1448556734000" />
+        <entry key="$PROJECT_DIR$/binary-search-tree" value="1450350249000" />
         <entry key="$PROJECT_DIR$/bob" value="1444740695000" />
         <entry key="$PROJECT_DIR$/crypto-square" value="1449583393000" />
         <entry key="$PROJECT_DIR$/difference-of-squares" value="1447426483000" />
@@ -1651,6 +1752,7 @@
         <entry key="$PROJECT_DIR$/nucleotide-count" value="1446040769000" />
         <entry key="$PROJECT_DIR$/phone-number" value="1446129358000" />
         <entry key="$PROJECT_DIR$/prime-factors" value="1448901531000" />
+        <entry key="$PROJECT_DIR$/queen-attack" value="1450199809000" />
         <entry key="$PROJECT_DIR$/raindrops" value="1448984547000" />
         <entry key="$PROJECT_DIR$/rna-transcription" value="1448463774000" />
         <entry key="$PROJECT_DIR$/robot-name" value="1446459855000" />
@@ -1689,16 +1791,18 @@
       <workItem from="1449241186228" duration="633000" />
       <workItem from="1449246402904" duration="35301000" />
       <workItem from="1450178638838" duration="954000" />
-      <workItem from="1450190822319" duration="14107000" />
+      <workItem from="1450190822319" duration="20703000" />
+      <workItem from="1450370685726" duration="3813000" />
+      <workItem from="1450449164662" duration="25615000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2015.12.02 at 10h 10m 01s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="BstTest - 2015.12.24 at 11h 49m 29s.xml">
+      <configuration name="BstTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 14h 48m 20s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
+    <history-entry file="BstTest - 2015.12.24 at 11h 49m 35s.xml">
+      <configuration name="BstTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
     <history-entry file="RaindropsTest - 2015.12.02 at 14h 51m 19s.xml">
       <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
@@ -1726,37 +1830,38 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="237049000" />
+    <option name="totallyTimeSpent" value="273073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="100" y="123" width="1240" height="597" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45673758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45673758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1814,97 +1919,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/roman-numerals/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roman-numerals/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roman-numerals/src/test/scala/roman_numerals_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roman-numerals/src/main/scala/RomanNumeral.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prime-factors/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/IterableLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4444447">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/immutable/Stream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.354067">
-          <caret line="85" column="9" selection-start-line="85" selection-start-column="9" selection-end-line="85" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prime-factors/src/test/scala/primefactors_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.66292137">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prime-factors/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7977528">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prime-factors/src/main/scala/PrimeFactors.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.505618">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raindrops/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.6666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raindrops/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="59" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/SetLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.111111">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/raindrops/src/test/scala/raindrops_test.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1916,13 +1930,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.333333">
           <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/raindrops/src/main/scala/Raindrops.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37666175">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -2045,13 +2052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crypto-square/src/test/scala/CrytpoSquareTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6454948">
-          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crypto-square/src/main/scala/CryptoSquare.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2080,13 +2080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kindergarten-garden/src/main/scala/Garden.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kindergarten-garden/src/test/scala/GardenTest.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7977528">
@@ -2098,7 +2091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2113,7 +2105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2121,9 +2112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#16#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2131,7 +2119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2139,7 +2126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2147,7 +2133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6698565">
           <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2155,7 +2140,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35885167">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2163,7 +2147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45454547">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2171,14 +2154,144 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.5505618">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/queen-attack/src/main/scala/Queens.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60674155">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-search-tree/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crypto-square/src/test/scala/CrytpoSquareTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86706054">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/Int.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022156574">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-search-tree/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.275862">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etl/src/main/scala/ETL.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.033707865">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roman-numerals/src/main/scala/RomanNumeral.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06646972">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rna-transcription/src/main/scala/Dna.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.044313148">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raindrops/src/main/scala/Raindrops.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06646972">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kindergarten-garden/src/main/scala/Garden.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3323486">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etl/src/test/scala/etl_test.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3293944">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-search-tree/src/test/scala/BstTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.86706054">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76404494">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/src/test/scala/HexadecimalTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

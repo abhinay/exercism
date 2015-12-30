@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/bank-account/.idea/modules/bank-account-build.iml" filepath="$PROJECT_DIR$/bank-account/.idea/modules/bank-account-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary.iml" />
       <module fileurl="file://$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" filepath="$PROJECT_DIR$/binary/.idea/modules/binary-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-tree/.idea/modules/binary-search-tree.iml" filepath="$PROJECT_DIR$/binary-search-tree/.idea/modules/binary-search-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-tree/.idea/modules/binary-search-tree-build.iml" filepath="$PROJECT_DIR$/binary-search-tree/.idea/modules/binary-search-tree-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square.iml" filepath="$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square.iml" />
       <module fileurl="file://$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square-build.iml" filepath="$PROJECT_DIR$/crypto-square/.idea/modules/crypto-square-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" filepath="$PROJECT_DIR$/difference-of-squares/.idea/modules/difference-of-squares.iml" />
@@ -22,6 +24,8 @@
       <module fileurl="file://$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond-build.iml" filepath="$PROJECT_DIR$/gigasecond/.idea/modules/gigasecond-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains.iml" />
       <module fileurl="file://$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" filepath="$PROJECT_DIR$/grains/.idea/modules/grains-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal.iml" filepath="$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal-build.iml" filepath="$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" />
       <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" />

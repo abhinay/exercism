@@ -111,6 +111,24 @@
         </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/binary-search-tree" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/binary-search-tree" />
+            <option value="$PROJECT_DIR$/binary-search-tree/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/binary-search-tree" />
+            <option value="$PROJECT_DIR$/binary-search-tree/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/bob" />
         <option name="modules">
           <set>
@@ -273,6 +291,12 @@
         </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hexadecimal" />
+        <option name="sbtVersion" value="0.13.8" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/kindergarten-garden" />
         <option name="modules">
           <set>
@@ -382,9 +406,21 @@
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/queen-attack" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/queen-attack" />
+            <option value="$PROJECT_DIR$/queen-attack/project" />
+          </set>
+        </option>
         <option name="sbtVersion" value="0.13.8" />
         <option name="useAutoImport" value="true" />
         <option name="useOurOwnAutoImport" value="true" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/queen-attack" />
+            <option value="$PROJECT_DIR$/queen-attack/project" />
+          </set>
+        </option>
       </SbtProjectSettings>
       <SbtProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/raindrops" />
