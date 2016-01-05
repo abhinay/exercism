@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mSeriesTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should map digits[0m[0m
+[0m[[0minfo[0m] [0m[32m- should slice[0m[0m
+[0m[[0minfo[0m] [0m[32m- should slice boundary conditions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find largestProduct[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find largestProduct in long strings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find largestProduct boundary conditions[0m[0m

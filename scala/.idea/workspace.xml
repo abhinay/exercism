@@ -2,41 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ad843d-f8bf-46e2-b534-fca7aa28c790" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$0397fbb3d2c9cbe7b50c.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb$$anonfun$$sbtdef$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/project/target/config-classes/$43f19d0e064de7d8c3fb.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/update_cache_2.11/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/largest-series-product/src/main/scala/Series.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sbt.xml" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" afterPath="$PROJECT_DIR$/queen-attack/.idea/modules/queen-attack-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/default/queen-attack_2.11/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-docs.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-optional.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-plugin.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-pom.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-provided.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-scala-tool.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-sources.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test-internal.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test.xml" afterPath="$PROJECT_DIR$/queen-attack/target/resolution-cache/reports/default-queen-attack_2.11-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/queen-attack/target/streams/$global/update/$global/streams/out" />
     </list>
     <ignored path="scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -152,6 +125,9 @@
     <ignored path="$PROJECT_DIR$/hexadecimal/target/" />
     <ignored path="$PROJECT_DIR$/hexadecimal/project/project/target/" />
     <ignored path="$PROJECT_DIR$/hexadecimal/project/target/" />
+    <ignored path="$PROJECT_DIR$/largest-series-product/target/" />
+    <ignored path="$PROJECT_DIR$/largest-series-product/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/largest-series-product/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -201,6 +177,9 @@
     <projectState path="$PROJECT_DIR$/kindergarten-garden">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/largest-series-product">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/meetup">
       <ProjectState />
     </projectState>
@@ -247,18 +226,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HexadecimalTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexadecimal/src/test/scala/HexadecimalTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hexadecimal.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala">
+      <file leaf-file-name="Series.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/largest-series-product/src/main/scala/Series.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -289,8 +258,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/robot-name/src/test/scala/Robot.scala" />
-        <option value="$PROJECT_DIR$/robot-name/src/test/scala/robot_name_test.scala" />
         <option value="$PROJECT_DIR$/robot-name/src/main/scala/Robot.scala" />
         <option value="$PROJECT_DIR$/grade-school/src/main/scala/School.scala" />
         <option value="$PROJECT_DIR$/leap/src/test/scala/leap_test.scala" />
@@ -340,6 +307,8 @@
         <option value="$PROJECT_DIR$/binary-search-tree/src/test/scala/BstTest.scala" />
         <option value="$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala" />
         <option value="$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala" />
+        <option value="$PROJECT_DIR$/largest-series-product/src/main/scala/Series.scala" />
+        <option value="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/Iterator.class" />
       </list>
     </option>
   </component>
@@ -413,7 +382,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexadecimal" />
+              <option name="myItemId" value="largest-series-product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,7 +396,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexadecimal" />
+              <option name="myItemId" value="largest-series-product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -453,7 +422,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexadecimal" />
+              <option name="myItemId" value="largest-series-product" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -494,22 +463,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="ScalaTest.BstTest">
-    <configuration default="false" name="RomanNumeralsSpecs.4 equals IV" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="roman-numerals" />
-      <setting name="path" value="RomanNumeralsSpecs" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="4 equals IV" />
-      <setting name="testKind" value="Test name" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="ScalaTest.SeriesTest">
     <configuration default="false" name="RomanNumeralsSpecs.6 equals III" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="roman-numerals" />
@@ -559,6 +513,21 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="binary-search-tree" />
       <setting name="path" value="BstTest" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SeriesTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="largest-series-product" />
+      <setting name="path" value="SeriesTest" />
       <setting name="package" value="" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
@@ -1026,24 +995,24 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
-      <item index="1" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-      <item index="2" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
-      <item index="3" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
-      <item index="4" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.SeriesTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
-        <item index="1" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
-        <item index="2" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
-        <item index="3" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
-        <item index="4" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.4 equals IV" />
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.SeriesTest" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.BstTest" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.RaindropsTest" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.PrimeFactorsTest" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.RomanNumeralsSpecs.6 equals III" />
       </list>
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1451406404416" />
+    <option name="lastUpdateTimestamp" value="1451990712905" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -1402,6 +1371,26 @@
               <ExternalProjectPojo>
                 <option name="name" value="kindergarten-garden-build" />
                 <option name="path" value="$PROJECT_DIR$/kindergarten-garden/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="largest-series-product" />
+              <option name="path" value="$PROJECT_DIR$/largest-series-product" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="largest-series-product" />
+                <option name="path" value="$PROJECT_DIR$/largest-series-product" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="largest-series-product-build" />
+                <option name="path" value="$PROJECT_DIR$/largest-series-product/project" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -1793,7 +1782,7 @@
       <workItem from="1450178638838" duration="954000" />
       <workItem from="1450190822319" duration="20703000" />
       <workItem from="1450370685726" duration="3813000" />
-      <workItem from="1450449164662" duration="25615000" />
+      <workItem from="1450449164662" duration="32643000" />
     </task>
     <servers />
   </component>
@@ -1804,33 +1793,33 @@
     <history-entry file="BstTest - 2015.12.24 at 11h 49m 35s.xml">
       <configuration name="BstTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 14h 51m 19s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 14h 51m 32s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 14h 53m 01s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 14h 53m 13s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 16h 22m 16s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 16h 23m 03s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="RaindropsTest - 2015.12.02 at 16h 28m 58s.xml">
-      <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="RaindropsTest - 2015.12.02 at 16h 40m 38s.xml">
       <configuration name="RaindropsTest" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 31m 24s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 32m 29s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 38m 20s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 40m 23s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 44m 54s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 47m 49s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="SeriesTest - 2016.01.05 at 15h 57m 38s.xml">
+      <configuration name="SeriesTest" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273073000" />
+    <option name="totallyTimeSpent" value="280101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -1850,7 +1839,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1919,41 +1908,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/raindrops/src/test/scala/raindrops_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/package.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allergies/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allergies/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allergies/src/test/scala/allergies_test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2850813">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allergies/src/main/scala/Allergies.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5096012">
@@ -2014,13 +1968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2658789">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2272,6 +2219,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/src/test/scala/HexadecimalTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7977528">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33707866">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank-account/src/main/scala/BankAccount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2658789">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/binary-search-tree/src/main/scala/Bst.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76404494">
@@ -2280,15 +2251,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexadecimal/src/test/scala/HexadecimalTest.scala">
+    <entry file="file://$PROJECT_DIR$/largest-series-product/src/test/scala/SeriesTest.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.86706054">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hexadecimal/src/main/scala/Hexadecimal.scala">
+    <entry file="file://$PROJECT_DIR$/largest-series-product/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largest-series-product/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/scala/collection/Iterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.3703704">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largest-series-product/src/main/scala/Series.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />

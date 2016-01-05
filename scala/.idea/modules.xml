@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal-build.iml" filepath="$PROJECT_DIR$/hexadecimal/.idea/modules/hexadecimal-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden.iml" />
       <module fileurl="file://$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" filepath="$PROJECT_DIR$/kindergarten-garden/.idea/modules/kindergarten-garden-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product.iml" filepath="$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product-build.iml" filepath="$PROJECT_DIR$/largest-series-product/.idea/modules/largest-series-product-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup.iml" />
       <module fileurl="file://$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" filepath="$PROJECT_DIR$/meetup/.idea/modules/meetup-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" filepath="$PROJECT_DIR$/prime-factors/.idea/modules/prime-factors.iml" />
